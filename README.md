@@ -3,13 +3,13 @@
 
 - Clone Repo
 - Download the zipped Data from https://drive.google.com/file/d/14HL3TcDUb9mNE1kqSvJGUmQZBTWTbPm8/view?usp=sharing
-- Place it into data collection into a folder named New Data
+- Place it into data collection into a folder named NewData
 
 Current repository directory should look like this
 
 * data collection
 	* M_A_News.csv
-	* New Data
+	* NewData
 		* [Downloaded Unzipped Data]
 * CLEAN_ClassificationNewData.ipynb
 * CLEAN_Classification_isM_A.ipynb
